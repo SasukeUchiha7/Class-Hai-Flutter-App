@@ -4,7 +4,7 @@ It's a mobile application totally build on flutter with Firebase.
 
 # What is Class hai?
 
-It is mobile application which tracks which classes. It provide students with the info of the subject classes which are schedule for the particular day.
+It is mobile application which tracks classes schedule. It provide students with the info of the subject classes which are schedule for the particular day.
 
 It is implemented with user authentication.
 
